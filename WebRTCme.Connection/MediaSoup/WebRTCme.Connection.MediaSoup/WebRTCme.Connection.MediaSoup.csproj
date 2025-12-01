@@ -5,9 +5,9 @@
   </PropertyGroup>
 
 
-	<ItemGroup>
+	<!--<ItemGroup>
     <ProjectReference Include="..\..\..\WebRTCme\WebRTCme.csproj" />
-  </ItemGroup>
+  </ItemGroup>-->
 
 
 
