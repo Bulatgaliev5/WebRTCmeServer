@@ -10,11 +10,12 @@
     <PackageReference Include="System.Reactive" Version="6.0.0" />
     <PackageReference Include="Utilme.Result" Version="1.0.1" />
     <PackageReference Include="Utilme.SdpTransform" Version="1.0.0" />
+	<PackageReference Include="WebRTCme" Version="2.0.0" />
   </ItemGroup>
 
 
-	<ItemGroup>
+	<!--<ItemGroup>
 	  <ProjectReference Include="..\..\..\WebRTCme\WebRTCme.csproj" />
-	</ItemGroup>
+	</ItemGroup>-->
 
 </Project>

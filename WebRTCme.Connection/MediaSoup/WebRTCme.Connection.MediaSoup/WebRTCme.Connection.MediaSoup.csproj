@@ -16,6 +16,7 @@
 		<PackageReference Include="Utilme.Result" Version="1.0.1" />
 		<PackageReference Include="Utilme.SdpTransform" Version="1.0.0" />
 		<PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="8.0.1" />
+		<PackageReference Include="WebRTCme" Version="2.0.0" />
 	</ItemGroup>
 
 </Project>

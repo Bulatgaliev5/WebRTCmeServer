@@ -7,6 +7,8 @@
 	<ItemGroup>
 		<PackageReference Include="Microsoft.AspNetCore.SignalR.Protocols.MessagePack" Version="8.0.1" />
 		<PackageReference Include="System.Reactive.Core" Version="6.0.0" />
+		<PackageReference Include="Utilme.Result" Version="1.0.1" />
+		<PackageReference Include="WebRTCme" Version="2.0.0" />
 	</ItemGroup>
 
 	<ItemGroup>
